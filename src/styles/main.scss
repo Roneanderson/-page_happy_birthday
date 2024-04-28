@@ -1,9 +1,8 @@
 @use 'hero';
 @use './components/infos_bar';
-@use 'variables';
 @use 'components/buttons';
 @use 'event';
-
+@use 'variables';
 
 * {
     margin: 0;
